@@ -5,3 +5,6 @@
 ls, cat, touch ...
 - 기초 깃 명령어
 status, init, add, commit, config, push ...
+
+3주차 내용
+clone
