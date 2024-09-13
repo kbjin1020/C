@@ -8,3 +8,4 @@ status, init, add, commit, config, push ...
 
 3주차 내용
 clone
+-빨리 끝내 송편
